@@ -1,3 +1,12 @@
+
+Auto原理说明
+===== 
+整体说明
+![Test XIB](http://img.hb.aicdn.com/37a8f2e41cdb95aa8656c1a22da539b3e0662a577b0c-eBu3FH_fw580w)
+下载过程说明
+![Test XIB](http://img.hb.aicdn.com/aa2ae742f126158355b18ea6791cda72e465f631237b8-RzyYcA_fw580)
+上传过程说明
+![Test XIB](http://img.hb.aicdn.com/39b6887be17de90a22f17daa493c4cbff8435ed5e3f8-DMOKu5_fw580)
 Auto用法说明
 ===== 
 （1）声明Model层文件（UserInfo.java）
